@@ -11,11 +11,11 @@ Table of Contents
 	•	Contributing
 	•	License
 
-##Overview
+## Overview
 
 The ESP32 Car Project leverages the ESP32’s Wi-Fi capabilities to allow remote control over a simple robotic car. It uses a motor driver to control the motors based on commands sent via Wi-Fi. The setup can be modified for Bluetooth control or even autonomous driving with additional sensors.
 
-##Components
+## Components
 
 	•	✅ ESP32 Cam module
 	•	✅ Pan Tilt Servo assembly
@@ -28,11 +28,11 @@ The ESP32 Car Project leverages the ESP32’s Wi-Fi capabilities to allow remote
 	•	✅ Double-sided tape
 	•	✅ Jumper wires
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open issues or create pull requests for new features or bug fixes.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
  
